@@ -42,4 +42,9 @@ body{
 .navegacion-principal a:hover{
    
     background-color:black;
+    color:yellow;
+}
+.Titleimg{
+    background-image: url(../Imagenes/back.png);
+    background-size: cover;
 }
